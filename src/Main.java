@@ -1,7 +1,8 @@
+
 public class Main {
     public static void main(String[] args) {
-        //task 1
-
+//        //task 1
+//
 //        int tower[] = new int[50];
 //        for (int i = 1, j=0; i <= 99;i=i+2, j++) {
 //            tower[j]=i;
@@ -9,8 +10,8 @@ public class Main {
 //        for (int i = 0; i < tower.length; i++) {
 //            System.out.println(tower[i]);
 //        }
-
-
+//
+//
 //        //task 2
 //        int book[] = new int[20];
 //        for (int i = 0; i < 20; i++) {
@@ -18,18 +19,18 @@ public class Main {
 //            System.out.print(book[i] + " ");
 //        }
 //        System.out.println(" ");
-//       // int bookmark[] = new int[20];
-//        for (int i = 0; i < book.length; i++) {
-//            if (0 == i % 2)
-//                book[i] = book[i];
+//        int bookmark[] = new int[20];
+//        for (int i = 0; i < bookmark.length; i++) {
+//            if (0 == book[i] % 2)
+//                bookmark[i] = book[i];
 //            else
-//                book[i] = 0;
-//            System.out.print(book[i] + " ");
+//                bookmark[i] = 0;
+//            System.out.print(bookmark[i] + " ");
 //
 //        }
 
 
-        //task 3
+//        //task 3
 //        int z[] = new int[5];
 //        int x[] = new int[5];
 //        int c[] = new int[5];
@@ -90,8 +91,7 @@ public class Main {
 //        for (int i = 0; i < 10; i++) {
 //            sum[i] = one[i] + two[i];
 //            System.out.print(sum[i] + " ");
-//
-//        }
+   //     }
         //task 5
 //        int[] arr = new int[15];
 //        for (int i = 0; i < arr.length; i++) {
@@ -134,5 +134,5 @@ public class Main {
 //            }
 //            System.out.println(" ");
 //    }
-}
+    }
 }
